@@ -1,6 +1,6 @@
 **React To Do app**
 
-**Vercel Deployment:** https://react-to-do-web-app.vercel.app/
+**Vercel Deployment:**  https://react-to-do-web-app.vercel.app/
 
 **Features:** A simple react to do app, where- 
 
