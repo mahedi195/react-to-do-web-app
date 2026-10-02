@@ -9,5 +9,4 @@
 - Task Can be deleted
    
 - Task can be move up
-   
 - Task can be move down
